@@ -15,7 +15,7 @@ It prints out the magic 8-balls answers, which was randomly selected from a list
 This program focuses on a fictional shipping company and is used to aid the user in choosing which shipping option, out of 3, would be best for them to use. This program could easily be changed and applied for other programs that may need a similar methods of comparison. 
 
 ### Input
-The only input required for the program to run is how much the package weighs in pounds.
+The only input required for the program to run is how much the package weighs in pounds (lbs).
 
 ### Output
 It outputs the prices of the different shipping rates in the order of gorund shipping, ground shipping premium, and drone shipping. Finally, it tells the user which shipping option would be best to use for them to save the most money. 
